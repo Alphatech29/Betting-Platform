@@ -1,0 +1,41 @@
+<div class="modal fade show" id="login-form" tabindex="-1" role="dialog" aria-labelledby="loginTitle" style="padding-right: 21px; display: block;" aria-modal="true">
+    <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <form accept-charset="UTF-8" action="/user/login" id="login_form" method="post">
+          <div>
+            <input name="utf8" type="hidden" value="✓">
+            <input name="authenticity_token" type="hidden" value="">
+          </div>
+          <a class="navbar-brand logo w-100 mb-3" href="/sport"> 
+            <img alt="TonyBet" class="d-block m-auto" src="/sites/all/themes/bonanza/assets/images/logo/bonanza_logo.png"> 
+          </a>
+          <div class="modal-body">
+            <div class="form-group">
+              
+              <label>Username</label>
+              <input placeholder="User" autocomplete="off" class="form-control" id="edit-name--2" name="name" value="" type="text">          </div>
+            <div class="form-group">
+              <label>Password</label>
+              <input placeholder="Password" class="form-control" id="edit-pass--2" name="pass" value="" type="password">            <span>
+                <a href="/user/password">Forgot your password?</a>
+              </span>
+            </div>
+          </div>
+          <div class="modal-footer d-flex justify-content-center pt-4 pb-0">
+            <div class="max-width-300">
+              <div class="d-flex flex-column flex-sm-row">
+                <input type="hidden" name="form_id" value="user_login_block">
+                <input type="hidden" name="form_build_id" value="form-TaCJbiGFMtoeMVkP-Afbij7FSPeoQRS8_7OaI7yELr4">
+                              <div style="display: inline-block; width: 100%; text-align: center;">
+                  <button class="btn btn-blank mb-3 mb-sm-0 mr-sm-3" id="edit-submit--2" name="op" onclick="" type="submit">Login</button>
+                  <a href="/user-register" class="btn btn-orange">
+                    Register
+                  </a>  
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>    
+      </div>
+    </div>
+  </div>

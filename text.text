@@ -1,0 +1,1021 @@
+.logo{
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 5px;
+}
+.hero{
+    position: fixed;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    height: 70px;
+    background-color: #07047F;
+    box-shadow: 1px 10px 12px 5px rgba(102, 10, 177, 0.425);
+    overflow: hidden;
+    top: 0;
+}
+
+.navbar{
+    display: flex;
+    width: 97%;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ul,li{
+    display: inline-block;
+    list-style: none;
+    margin: 5px 10px;
+}
+.ul,li,a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 700;
+}
+.ul,li,a:hover{
+    color: #E76626;
+}
+
+
+ <!--     
+        <div class="hero fixed-top" id="myHeader">
+            <div class="navbar">
+                <a href="/" class="logo "><img alt="Bonanza" src="img/bonanza_logo.png" width="70%" height="50%"></a>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="#">Live Score</a></li>
+                    <li><a href="#">Free Bet</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Prediction</a></li>
+                    <li><a href="#">Become Agent</a></li>
+
+                </ul>
+                <p id="clock" class="clock"></p>
+                <a href="login.html"><button class="btn-1" >Login</button></a>
+                <a href="login.html"><button class="btn-2" >Register</button></a>v
+            </div> 
+        </div>
+--> 
+
+
+
+
+    <!--Home Start Section-->
+    <section class="slider-section" po>
+        <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="true">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+                    class="active" style="color: rgba(255, 231, 17, 0.884); background-color:#ffe200;"
+                    aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                    aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                    aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block" src="https://n.tglab.io/uploads/22/web_sport/feature_event/image_big/105778/resized_argentina_france.jpg">
+                        
+                </div>
+                <div class="carousel-item active">
+                    <img class="d-block" src="https://n.tglab.io/uploads/22/web_sport/feature_event/image_big/105778/resized_argentina_france.jpg">
+                </div>
+                <div class="carousel-item active">
+                    <img class="d-block" src="https://n.tglab.io/uploads/22/web_sport/feature_event/image_big/85187/resized_dw_1160x220_.jpg" style="background-image: cover;">
+                </div>
+
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </section>
+    <!--Home End Section-->
+    <section>
+    <div class="col-sm-12 text-center telegramDiv"
+        style="font-size: 15px!important;  background: black; color: white; padding-top: 10px;">
+        <center>
+            <div class="blink">
+            <img src="https://www.betsloaded.com/images/telegram.png" style="height: 20px;" alt=""> <strong>Join Our
+                Telegram Channel for Sure football predictions daily!!!...
+                <a href="https://t.me/betsloaded" target="_blank">Click Here</a></strong> <br><br>
+            </div>
+        </center>
+    </div>
+</section>
+
+<!--Start Free Gaming Section-->
+
+
+
+<!--Eend Free Gaming Section-->
+
+    <!--Start Market Section-->
+<section>
+    <div class="blog-new mt30 mb30" style="background-color:#07047F; ">
+        <div class="container" style="padding-bottom: 30px; color: white;">
+            <div class="row">
+                <div class="col-sm-12" style="padding-top: 30px; padding-bottom: 20px;">
+                    <div class="row">
+                        <div class="col-sm-6 text-center">
+                            <h2><strong>BE A WINNER TODAY!!!</strong></h2>
+                            <p>Do you want to ride on our experienced, professional experts shoulders as they
+                                provide <strong>2.0 - 2.99 Odds</strong> to enable you invest and make profit
+                                steadily everyday, then you have it.</p>
+                            <a href="/login"><button
+                                    style="background-color: #ffe200; border: none; font-weight: bold; padding: 12px 12px; font-size: 16px; color:s #000">Join
+                                    our Daily Banker / Investment Smasher [ 2.0 - 2.99 Odds ]</button></a>
+                            <h3 style="padding: 10px;"><strong>Investment Banker Result</strong></h3>
+                            <div class="row">
+                                <div class="row-lable">
+                                    <div class="col-xs-2">
+                                        <span style="font-size: 17px; font-weight: bold">Fri <br> 02</span> <br>
+                                        <i class="fa fa-circle-o fa-2x"></i>
+                                    </div>
+                                    <div class="col-xs-2">
+                                        <span style="font-size: 17px; font-weight: bold">Sat <br> 03</span> <br>
+                                        <i class="fa fa-check-circle fa-2x text-success"></i>
+                                    </div>
+                                    <div class="col-xs-2">
+                                        <span style="font-size: 17px; font-weight: bold">Sun <br> 04</span> <br>
+                                        <i class="fa fa-check-circle fa-2x text-success"></i>
+                                    </div>
+                                    <div class="col-xs-2">
+                                        <span style="font-size: 17px; font-weight: bold">Mon <br> 05</span> <br>
+                                        <i class="fa fa-circle-o fa-2x"></i>
+                                    </div>
+                                    <div class="col-xs-2">
+                                        <span style="font-size: 17px; font-weight: bold">Tue <br> 06</span> <br>
+                                        <i class="fa fa-times-circle fa-2x text-danger"></i>
+                                    </div>
+                                    <div class="col-xs-2">
+                                        <span style="font-size: 17px; font-weight: bold">Wed <br> 07</span> <br>
+                                        <i class="fa fa-circle-o fa-2x"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="col-sm-12"
+                                style="background-color: whitesmoke; border-radius: 7px; margin-top: 15px; color: black; padding-top: 8px; padding-bottom: 8px;">
+                                <h3 class="text-center" style="padding: 20px;"><strong
+                                        style="color: #07047F;">Investment Scheme for Today</strong></h3>
+                                <center>
+                                    <h2><strong style="color: #07047F;">TOTAL ODDS: <span
+                                                class="blink" style="color: #157347;">1.54</span></strong></h2>
+                                    <div class="tip" style="padding-top: 10px;">
+                                        <a href="/login"><button class="btn btn-md btn-success"><i
+                                                    class="fa fa-eye"></i> VIEW TIP</button></a>
+                                    </div>
+                                </center>
+                                <hr>
+                                <center>
+                                    <div class="containerCT">
+                                        <h3 id="head" class="alert alert-success"><strong>Today's Investment Game
+                                                Starts</strong></h3>
+                                        <ul class="timer">
+                                            <li><span id="hours">-11</span>Hours</li>
+                                            <li><span id="minutes">-36</span>Minutes</li>
+                                            <li><span id="seconds">-41</span>Seconds</li>
+                                        </ul>
+                                    </div>
+                                </center>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </section>
+    <!--End Market Section-->
+
+    <!--Start Premiun Box-->
+<section>
+    <div class="match-box pad60" style="padding-top: 25px;">
+        <div class="container">
+        <div class="row">
+        
+        <div class="col-sm-7 nopaddingsmall">
+        <div class="col-sm-12" style="padding: 0px;">
+        <div class="up-matches">
+        <div class="section-title">
+        <center><h3 class="text-success" style="font-family: 'Acme', sans-serif;"> <span>UPCOMING PREDICTIONS</span></h3></center>
+        <hr style="border: 1px dotted #66bb6a; margin-top: -8px;">
+        </div>
+        <div class="col-sm-12">
+        <div class="alert alert-warning alert-dismissible">
+        <div class="alert-heading">Our experts are currently working on this. Kindly check back in a bit!!</div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="col-sm-12 nopaddingsmall hideSM">
+        <center>
+        </center>
+        </div>
+        <div class="col-sm-12 nopaddingsmall hideLG">
+        <center>
+        </center>
+        </div>
+        </div>
+        
+        <div class="col-sm-5 nopaddingsmall">
+        <div class="section-title">
+        <center><h3 class="text-success" style="font-family: 'Acme', sans-serif;"> <span>RECENT WINNINGS</span></h3></center>
+        <hr style="border: 1px dotted #66bb6a; margin-top: -8px;">
+        </div>
+        <table class="table myTableSmall" style="background-color: #f8f9f9; font-size: 14px; width: 100%;">
+        <tbody>
+        <tr style="height: 9px;">
+        <td style="width: 8%; height: 9px; background-color: #060; text-align: center;"><span style="color: #ffffff;">DATE</span></td>
+        <td style="width: 55%; height: 9px; background-color: #060; text-align: left;"><span style="color: #ffffff;">FIXTURE</span></td>
+        <td style="width: 10%; height: 9px; background-color: #060; text-align: center;"><span style="color: #ffffff;">RESULT</span></td>
+        <td style="width: 12%; height: 9px; background-color: #060; text-align: center;"><span style="color: #ffffff;">TIP</span></td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>17/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">Sakaryaspor <span style="color: #060;"><strong>VS</strong></span> Genclerbirligi</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>2:1</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">1 DNB</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>17/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">Hoffenheim <span style="color: #060;"><strong>VS</strong></span> 1860 Munich</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>3:2</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">1X</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>17/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">Singapore <span style="color: #060;"><strong>VS</strong></span> Maldives</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>3:1</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">1</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>17/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">Linfield <span style="color: #060;"><strong>VS</strong></span> Dungannon</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>4:0</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">1</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>17/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">Cliftonville <span style="color: #060;"><strong>VS</strong></span> Portadown</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>4:1</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">1</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>16/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">AEK Larnaca <span style="color: #060;"><strong>VS</strong></span> Omonia Nicosia</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>2:1</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">OVER 1.5</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>16/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">AS Roma (W) <span style="color: #060;"><strong>VS</strong></span> St.polten-Spratzern</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>5:0</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">1</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>16/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">Valencia <span style="color: #060;"><strong>VS</strong></span> Nottingham Forest</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>1:2</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">OVER 1.5</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>16/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">Lille <span style="color: #060;"><strong>VS</strong></span> Cambuur</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>2:0</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">OVER 1.5</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>16/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">Crystal Palace <span style="color: #060;"><strong>VS</strong></span> Real Valladolid</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>2:1</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">OVER 1.5</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>16/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">Kampala City Council <span style="color: #060;"><strong>VS</strong></span> Busoga United FC</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>2:1</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">1</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>15/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">Al Ittihad Al Sakandary <span style="color: #060;"><strong>VS</strong></span> Farco FC</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>1:0</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">1 DNB</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>15/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">FC Rosengard (W) <span style="color: #060;"><strong>VS</strong></span> Bayern Munich (W)</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>0:4</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">OVER 2.5</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>15/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">FCB Magpies <span style="color: #060;"><strong>VS</strong></span> Lions Gibraltar</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>2:0</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">1</td>
+        </tr>
+        <tr style="height: 3px;">
+        <td style="width: 8%; height: 3px; text-align: center;"><span style="color: #060;"><strong>15/12</strong></span></td>
+        <td style="width: 55%; height: 3px; text-align: left;">Guangzhou FC <span style="color: #060;"><strong>VS</strong></span> Shandong Taishan</td>
+        <td style="width: 12%; height: 3px; background-color: #060; color: white; text-align: center;"><strong>2:4</strong></td>
+        <td style="width: 15%; height: 3px; text-align: center;">2</td>
+        </tr>
+        </tbody>
+        </table>
+        <div class="col-sm-12">
+        <center>
+        <a href="https://www.betsloaded.com/recent_winnings"><button class="btn btn-md btn-success">See More Winnings</button></a>
+        </center>
+        </div>
+        </div>
+        <div class="col-sm-12" style="padding: 0px; margin-bottom: -10px;">
+        <br>
+        <center>
+        </center>
+        </div>
+        
+        </div>
+        
+        </div>
+        </div>
+</section>
+
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-box">
+                    <img src="img/bonanza_logo.png" alt="">
+                <p>VictorsPredict is an online service that provides free football tips and predictions for football fans around the world, free analysis, Banker tips, latest results, and many more.</p>
+                <h3>We Accect</h3>
+                <div class="card-area">
+                    <i class="fa-brands fa-cc-paypal"></i>
+                    <i class="fa-solid fa-credit-card"></i>
+                    <i class="fa-sharp fa-solid fa-building-columns"></i>
+                    <i class="fa-brands fa-bitcoin"></i>
+                </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6" >
+                <div class="single-box">
+                    <h2>Useful links</h2>
+                    
+                <ul>
+                    <li><a href="#">Web Hosting</a></li>
+                    <li><a href="#">Cloud Hosting</a></li>
+                    <li><a href="#">CMS Hosting</a></li>
+                    <li><a href="#">WordPress Hosting</a></li>
+                    <li><a href="#">Email Hosting</a></li>
+                    <li><a href="#">VPS Hosting</a></li>
+                </ul>
+                </div>                    
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-box">
+                    <h2>Domain</h2>
+                <ul>
+                    <li><a href="mailto:itodogabriel40@gmail.com">itodogabriel40@gmail.com</a></li>
+                    <li><a href="#">Cloud Domain</a></li>
+                    <li><a href="/contact.html">Contact Us</a></li>
+                    <li><a href="#">WordPress Domain</a></li>
+                    <li><a href="#">Email Domain</a></li>
+                    <li><a href="#">VPS Domain</a></li>
+                </ul>
+                </div>                    
+            </div>
+        
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-box">
+                    <h2>Newsletter</h2>
+                    <p>Don't miss out on all the great content we have to offer. Subscribe to our newsletter today and stay up-to-date on all things Bethoni.</p>
+                    <div class="input-group mb-3">
+                        <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Enter your Email ..." aria-describedby="basic-addon2">
+                        <span class="input-group-text" id="basic-addon2"><i class="fa fa-long-arrow-right"></i></span>
+                    </div>
+                    <h2>Follow us on</h2>
+                    <p class="socials">
+                        <i class="fa-brands fa-facebook"></i>
+                        <i class="fa-brands fa-instagram"></i>
+                        <i class="fa-brands fa-telegram"></i>
+                        <i class="fa-brands fa-youtube"></i>
+                        <i class="fa-brands fa-twitter"></i>
+                    </p>
+                </div>
+            </div>
+        </div>
+    
+        
+    </div>
+    <div class="col-12 mt-3 pt-3" style="border-top: 1px solid #FFFFFF; opacity: 0.5;">
+    </div>
+    <div class="col-12 last-footer text-center">
+    <div class="row">
+    <div class="col-sm-12" style="color: rgba(255, 255, 255, 0.719);">
+    © 2022 Bethoni. All rights reserved.
+    </div>
+    </div>
+    </div>
+</footer>
+
+
+.sub-menu{
+    display: none;
+}
+.menu-bar ul li:hover .sub-menu{
+    display: block;
+    position: absolute;
+    background: #07047F;
+    margin-top: 15px;
+    margin-left: -10px;
+
+}
+.menu-bar ul li:hover .sub-menu ul{
+    display: block;
+    margin-left: -30px;
+    
+
+}
+.menu-bar ul li:hover .sub-menu ul li{
+    font-weight: 600;
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted #fff;
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
+    -webkit-border-radius: 1px dotted #fff;
+    -moz-border-radius: 1px dotted #fff;
+    -ms-border-radius: 1px dotted #fff;
+    -o-border-radius: 1px dotted #fff;
+}
+.menu-bar ul li:hover .sub-menu ul li:last-child{
+    border-bottom: none;
+}
+.menu-bar ul li:hover .sub-menu ul li a:hover{
+    color: #ced4da;
+    background: #5bdeff77;
+    padding: 5px;
+    border-radius: 3px;
+}
+.menu-bar ul li a:before {
+    content: "";
+    position: absolute;
+    left: 100%;
+    top: 0;
+    height: 1px;
+    width: 100%;
+    background: #fff;
+    transition: all 0.3s ease-in-out;
+  }
+  .menu-bar ul li a:after {
+    content: "";
+    position: absolute;
+    right: 100%;
+    bottom: 0;
+    height: 1px;
+    width: 100%;
+    background: #fff;
+    transition: all 0.3s ease-in-out;
+  }
+  .menu-bar ul li:hover a:before{left: 0;}
+  .menu-bar ul li:hover a:after{right: 0;}
+
+
+
+
+
+  .btn-1 {
+    font-size: 16px;
+    height: 30px;
+    color: #07047F;
+    padding-left:20px;
+    color: #000000;
+    padding-right:20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background:#1AFFFF;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+  
+  .btn-1:not(.btn-1--selected):hover {
+    background: #cccccc;
+  }
+  
+  .btn-1--selected {
+    background: #009578;
+    color: #ffffff;
+  }
+
+  .btn-2 {
+    font-size: 16px;
+    height: 30px;
+    color: #07047F;
+    padding-left:20px;
+    padding-right:20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background: #dddddd;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+  
+  .btn-2:not(.btn-2--selected):hover {
+    background: #e29404;
+  }
+  
+  .btn-2--selected {
+    background: #009578;
+    color: #ffffff;
+  }
+  
+.menu-bar{
+    width: 100%;
+    background: #07047F;
+    text-align: center;
+    font-size: medium;
+    font-weight: 600;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    box-shadow: 1px 10px 12px 5px rgba(157, 224, 255, 0.199);
+}
+.menu-bar ul{
+    display: flex;
+    color: #f8f9fa;
+    list-style: none;
+}
+.menu-bar ul li{
+ padding: 5px;
+
+}
+.menu-bar ul li a{
+    text-decoration: none;
+    color: #dddddd;
+}
+.menu-bar ul li:hover{
+    background: #5bdeff77;
+    border-radius: 3px;
+
+}
+
+.logo-1{
+    margin-right: 150PX;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 5px;
+    float: left;
+}
+.logo{
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 5px;
+    float: left;
+}
+.menu-bar .place{
+    display: flex;
+    float: right;
+    margin-right: 30px;
+}
+
+.checkbtn .fa-bars{
+    cursor: pointer;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 15px;
+    float: left;
+}
+.checkbtn label{
+    margin-right: -20px;
+    margin-left: -20px;
+    cursor: pointer;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 15px;
+    float: left;
+}
+
+.checkbtn{
+    font-size: 25px;
+    color: white;
+    cursor: pointer;
+    display: none;
+  }
+  #check{
+    display: none;
+  }
+  #nav-check{
+    display: none;
+  }
+  .clock{
+    padding-right: 30px;
+}
+
+  
+*,*:after,*:before{
+    box-sizing: border-box;
+}
+html, body {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 10px;
+    font-size: small;
+    font-family:sans-serif;
+  }
+  
+h1, h2, h3, h4, h4, h5, h6{
+    color: #ffffff;
+}
+ 
+/*Header css cold*/
+  #header{
+    width: 100%;
+    background-color: #07047F;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    
+   
+  }
+  .container{
+    display: inline;
+  }
+  
+ /*End header code*/
+
+ 
+.market-section{
+    padding: 40px;
+    height: 70%;
+    background-color: #3c3f3f;
+}
+.row col{
+        display: grid;
+        grid-template-rows: 250px;
+        grid-auto-columns: 1fr;
+        gap: 0px 0px;
+        grid-auto-flow: row dense;
+        justify-content: space-between;
+        align-content: center;
+        justify-items: start;
+        align-items: end;
+        grid-template-areas:
+          "";
+        width: 100%;
+        height: 100%;
+      }
+      
+.header-text{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 100.4%;
+    color: #fff;
+}
+.sub-header-text{
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px; 
+    color: #fff;
+}
+
+
+.text-content{
+    padding: 2px;
+    animation: fadeinout s linear infinite;
+    -webkit-animation: fadeinout 5s linear infinite;
+}
+
+  @keyframes fadeinout {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+.container{
+    display: flex;
+    width: 97%;
+    justify-content: center;
+    align-items: center;
+}
+.fa-brands {
+    width: 35px;
+    height: 100%;
+    display: inline-block;
+    font-size: large;
+}
+.clock{
+    color: #e9ecef;
+}
+
+
+.free-game{
+    background-color: #FF6600;
+}
+.stadium{
+    width: 100%;
+    padding: 40px;
+    color: #ffffff;
+    background-color: #07047F;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+.timer li {
+    color: #fd7e14 !important;
+    display: inline-block;
+    font-size: 500;
+    list-style-type: none;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.timer li span {
+    display: block;
+    font-size: 600;
+    
+}
+
+.row-lable{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-around;
+}
+
+
+/*Footer css code*/
+
+footer {
+	background: #07047F;
+	padding-top: 40px;
+    padding-bottom: 40px;
+  
+}
+.single-content {
+	text-align: center;
+	padding: 115px 0;
+    padding-bottom: 10px;
+}
+.single-box p {
+	color: #fff;
+	line-height: 1.9;
+    padding-top: 20px;
+}
+.single-box h3 {
+	font-size: 16px;
+	font-weight: 700;
+	color: #fff;
+}
+.single-box .card-area i {
+	color: #ffffff;
+	font-size: 20px;
+	margin-right: 10px;
+}
+.single-box ul {
+	list-style: none;
+    display: grid;
+	padding-left: 0px;
+}
+.single-box ul li a {
+	text-decoration: none;
+   	color: #fff;
+	line-height: 1.5;
+	font-weight: 100;
+}
+.single-box h2 {
+	color: #fff;
+    padding-left: 0px;
+	font-size: 20px;
+	font-weight: 700;
+   
+}
+#basic-addon2 {
+	background: #fe1e4f;
+	color: #fff;
+}
+.socials i {
+    display: inline;
+    align-items: center;
+    justify-items: center;
+	font-size: 18px;
+	margin-right: 15px;
+}
+@media (max-width: 767px) {
+	.single-box {
+		margin-bottom: 50px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.single-box {
+		margin-bottom: 50px;
+	}
+}
+
+.blink{
+    animation: blink 1s linear infinite;
+    -webkit-animation: blink 1s linear infinite;
+}
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+
+<!--<div class="menu-bar">
+    <div class="checkbtn">
+        <label for="nav-check">
+        <i class="fa-solid fa-bars"></i>
+        </label>
+    </div>
+    <input type="checkbox" id="nav-check">--> 
+    <div class="container">
+      <div class="header_left">
+        <a href="/"><img alt="Bonanza" src="img/bonanza_logo.png" width="70%" height="50%"></a>
+      </div>
+      <div class="header_right">
+        <nav class="main_nav">
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Contact Us</a></li>
+          </ul>
+        </nav>    
+      </div>
+      
+    <div class="place">
+        <span id="clock" class="clock" style="color: #fff;"></span>
+                <a href="login.html"><button class="btn-1" >Login</button></a>
+                <a href="login.html"><button class="btn-2" >Register</button></a>
+            </div>
+      
+    </div>
+  
+
+   <!--cloud CSS-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+
+
+
+    
+.owl-carousel {
+  margin-top: 100px;
+  width: 100%;
+  height: 150px;
+}
+
+.slide {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.slide::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.slide-1 {
+  background-image: url(img/bg-1.jpg);
+}
+
+.slide-2 {
+  background-image: url(img/bg-2.jpg);
+}
+
+.slide-3 {
+  background-image: url(img/bg-3.jpg);
+}
+
+.slide-content {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff;
+  padding: 0 20%;
+}
+
+.slide-content h1 {
+  font-family: "Anton", serif;
+  font-size: 45px;
+  text-transform: uppercase;
+}
+
+.slide-content p {
+  font-family: "Lato", serif;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.slide-content button {
+  font-family: "Roboto", serif;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: bolder;
+  padding: 10px 25px;
+  border: none;
+}
+
+.owl-dots {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  bottom: 1%;
+}
+
+.owl-dots span {
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.owl-dots button {
+  border: none !important;
+  outline: none !important;
+}
+
+.owl-nav button {
+  border: none !important;
+  outline: none !important;
+}
+
+.owl-prev, .owl-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff !important;
+  font-size: 65px !important;
+  font-weight: bolder !important;
+  background:none !important;
+}
+
+.owl-prev {
+  left: 1%;
+}
+
+.owl-next {
+  right: 1%;
+}
